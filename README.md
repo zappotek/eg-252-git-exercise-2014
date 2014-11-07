@@ -1,4 +1,4 @@
-eg-252-git-exercise
+EG-252 Git Exercise
 ===================
 
 An exercise in using git.
